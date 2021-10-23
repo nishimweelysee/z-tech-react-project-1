@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nishimweelysee/z-tech-react-project-1.git/static/css/main.f29ae65a.chunk.css",
+    "main.js": "/nishimweelysee/z-tech-react-project-1.git/static/js/main.77813819.chunk.js",
+    "main.js.map": "/nishimweelysee/z-tech-react-project-1.git/static/js/main.77813819.chunk.js.map",
+    "runtime-main.js": "/nishimweelysee/z-tech-react-project-1.git/static/js/runtime-main.c3e99a90.js",
+    "runtime-main.js.map": "/nishimweelysee/z-tech-react-project-1.git/static/js/runtime-main.c3e99a90.js.map",
+    "static/js/2.11ae2683.chunk.js": "/nishimweelysee/z-tech-react-project-1.git/static/js/2.11ae2683.chunk.js",
+    "static/js/2.11ae2683.chunk.js.map": "/nishimweelysee/z-tech-react-project-1.git/static/js/2.11ae2683.chunk.js.map",
+    "index.html": "/nishimweelysee/z-tech-react-project-1.git/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "/nishimweelysee/z-tech-react-project-1.git/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.11ae2683.chunk.js.LICENSE.txt": "/nishimweelysee/z-tech-react-project-1.git/static/js/2.11ae2683.chunk.js.LICENSE.txt",
+    "static/media/logo.6e59f266.png": "/nishimweelysee/z-tech-react-project-1.git/static/media/logo.6e59f266.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e99a90.js",
+    "static/js/2.11ae2683.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.77813819.chunk.js"
+  ]
+}
